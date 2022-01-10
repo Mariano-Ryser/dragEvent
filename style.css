@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  color: azure;
+}
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+}
+
+
+.fill{
+    background-color: rgb(235, 211, 0);
+    position: relative;
+    height: 155px;
+    width: 155px;
+    cursor: pointer;
+}
+
+.empty{
+    display: inline-block;
+    height: 155px;
+    width: 155px;
+    margin: 10px;
+    border: solid red 3px;
+}
+
+.hold{
+    border: solid blue 3px;
+    
+}
+.hovered{
+    background-color: seagreen;
+    border-style: dashed;
+    cursor: pointer;
+}
+
+.invisible{
+    display: none;
+    cursor: pointer;
+}

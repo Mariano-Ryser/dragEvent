@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+   background-color: blue;
+}
+#title{
+    text-align: center;
+    color: white;
+}
+
+a{
+    color: blanchedalmond;
+    font-size: 2rem;
+}
+
+#img{
+    height: 400px;
+    width: 400px;
+}
+
+#container-bild{
+   padding: 50px;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    /* height: 400px;
+    width: 400px; */
+}
+#sub-container{
+   
+    height: 400px;
+    width: 400px;
+    overflow: hidden;
+    border: black solid 2px;
+    box-shadow: rgb(0, 11, 158) 0px 0px 20px;
+}

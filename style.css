@@ -14,7 +14,7 @@ h1{
 
 .fill{
     background-color: rgb(235, 211, 0);
-    position: relative;
+    /* position: relative; */
     height: 155px;
     width: 155px;
     cursor: pointer;

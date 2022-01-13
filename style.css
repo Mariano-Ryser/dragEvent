@@ -3,14 +3,20 @@
   padding: 0;
   box-sizing: border-box;
   color: azure;
+  font-family: 'Press Start 2P', cursive;
 }
 body{
     background-color: black;
 }
 h1{
+    margin: 3rem;
     text-align: center;
 }
 
+a{
+    display: block;
+    text-align: center;
+}
 
 .fill{
     background-color: rgb(235, 211, 0);
